@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1476031137 source:c:\users\maxime\desktop\langagec\projets langage c\projet1\bataillenavale\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+
